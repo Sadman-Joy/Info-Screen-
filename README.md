@@ -1,4 +1,6 @@
-# 📊 Daily Dashboard - Bangladesh Edition : is.gd/infoDashboard
+# 📊 Daily Dashboard - Bangladesh Edition
+
+[Visit My Dashboard Live](https://is.gd/infoDashboard)
 
 A clean and informative dashboard built using HTML, CSS, and JavaScript (or your preferred stack) that displays:
 
@@ -10,11 +12,6 @@ A clean and informative dashboard built using HTML, CSS, and JavaScript (or your
 
 ---
 
-## 📸 Screenshot
-
-![Dashboard Screenshot](./1000021876.jpg)
-
----
 
 ## 🧩 Features
 
